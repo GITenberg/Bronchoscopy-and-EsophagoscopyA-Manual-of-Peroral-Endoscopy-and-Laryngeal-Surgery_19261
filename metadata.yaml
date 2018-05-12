@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8567
     wikipedia: http://en.wikipedia.org/wiki/Chevalier_Jackson
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19261#Bronchoscopy-and-EsophagoscopyA-Manual-of-Peroral-Endoscopy-and-Laryngeal-Surgery
 gutenberg_bookshelf: Medicine
 gutenberg_issued: '2006-09-13'
 gutenberg_type: Text
